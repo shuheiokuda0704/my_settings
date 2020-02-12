@@ -1,2 +1,11 @@
 {
+    "ruby.format": "rubocop",
+    "ruby.useBundler": true,
+    "ruby.lint": {
+      "rubocop": {
+        "useBundler": true
+      },
+    },
+    "solargraph.useBundler": true,
 }
+
