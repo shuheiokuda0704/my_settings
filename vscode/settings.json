@@ -7,5 +7,6 @@
       },
     },
     "solargraph.useBundler": true,
+    "files.autoSave": "onFocusChange",
 }
 
