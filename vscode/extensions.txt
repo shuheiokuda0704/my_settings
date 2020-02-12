@@ -1,8 +1,14 @@
 aki77.rails-db-schema
+Arjun.swagger-viewer
 bung87.rails
 bung87.vscode-gemfile
 castwide.solargraph
 Hridoy.rails-snippets
+jduponchelle.rainbow-end
+kaiwood.endwise
+oderwat.indent-rainbow
+PKief.material-icon-theme
 rebornix.ruby
 sianglim.slim
+sporto.rails-go-to-spec
 wingrunr21.vscode-ruby
