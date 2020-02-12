@@ -1,0 +1,8 @@
+aki77.rails-db-schema
+bung87.rails
+bung87.vscode-gemfile
+castwide.solargraph
+Hridoy.rails-snippets
+rebornix.ruby
+sianglim.slim
+wingrunr21.vscode-ruby
