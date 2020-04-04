@@ -8,5 +8,7 @@
     },
     "solargraph.useBundler": true,
     "files.autoSave": "onFocusChange",
+    "git.autofetch": true,
+    "window.zoomLevel": 0,
 }
 
