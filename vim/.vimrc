@@ -1,5 +1,5 @@
 " Basic settings.
-filetype plugin indent on
+filetype off
 syntax enable
 
 " Setup dein and plugins.
@@ -48,6 +48,7 @@ let g:auto_save = 1
 
 call dein#end()
 
+filetype plugin indent on
 
 " Settings of the encoding to use for a save and reading.
 set encoding=utf-8
@@ -291,3 +292,6 @@ augroup AutoCommentOff
   autocmd BufEnter * setlocal formatoptions-=r
   autocmd BufEnter * setlocal formatoptions-=o
 augroup END
+
+" filetypeの自動検出(最後の方に書いた方がいいらしい)
+filetype on
