@@ -1,0 +1,9 @@
+[user]
+	name = ml-okuda
+	email = shuhei.okuda@monstar-lab.com
+[core]
+	excludesfile = /Users/shuhei_okuda/.gitignore_global
+[fetch]
+	prune = true
+[alias]
+	delete-merged-branches = !git branch --merged | grep -v \\* | xargs -I % git branch -d %
